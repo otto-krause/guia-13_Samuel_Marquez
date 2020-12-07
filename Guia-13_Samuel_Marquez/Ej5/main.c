@@ -1,8 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/* No sabia como agregar vectores a este programa asi que agrege el if  */
-
 	int main( ) {
 	
 	int v[20],i,z,acu=0,vt=0,a,mvp,mv,md;
